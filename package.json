@@ -1,0 +1,22 @@
+{
+  "name": "taskapi",
+  "version": "1.0.0",
+  "description": "task",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahees148/todoapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahees148/todoapi/issues"
+  },
+  "homepage": "https://github.com/Rahees148/todoapi#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
