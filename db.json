@@ -27,30 +27,6 @@
   ],
   "profile": [
     {
-      "userName": "rayees",
-      "userId": 1
-    },
-    {
-      "userName": "Test",
-      "userId": 2
-    },
-    {
-      "id": "232",
-      "userName": "test"
-    },
-    {
-      "id": "12",
-      "userName": "rayees"
-    },
-    {
-      "id": 123,
-      "userName": "Rayees"
-    },
-    {
-      "id": 786,
-      "userName": "Zaeem"
-    },
-    {
       "id": 1,
       "userName": "rayees"
     },
