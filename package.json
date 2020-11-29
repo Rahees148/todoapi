@@ -4,7 +4,8 @@
   "description": "task",
   "main": "db.json",
   "scripts": {
-    "start": "json-server --watch db.json"
+    "start": "node server.js",
+    "dev:start": "json-server --watch db.json --port 3004"
   },
   "repository": {
     "type": "git",
