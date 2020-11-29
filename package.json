@@ -17,7 +17,7 @@
     "url": "https://github.com/Rahees148/todoapi/issues"
   },
   "homepage": "https://github.com/Rahees148/todoapi#readme",
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^0.16.3"
   }
 }
